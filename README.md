@@ -8,3 +8,6 @@ There are two ways to write the fibonacci series program in java:
 1: Fibonacci Series without using recursion
 
 2: Fibonacci Series using recursion
+
+
+Recursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem. Recursion solves such recursive problems by using functions that call themselves from within their own code
