@@ -5,5 +5,6 @@ In fibonacci series, next number is the sum of previous two numbers for example 
 
 There are two ways to write the fibonacci series program in java:
 
-Fibonacci Series without using recursion
-Fibonacci Series using recursion
+1: Fibonacci Series without using recursion
+
+2: Fibonacci Series using recursion
